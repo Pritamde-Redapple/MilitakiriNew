@@ -1,0 +1,1402 @@
+{
+    "countries" : [
+        {
+            "ids" : "1",
+            "sortname" : "AF",
+            "name" : "Afghanistan",
+            "dial_code" : "+93"
+        },
+        {
+            "ids" : "2",
+            "sortname" : "AL",
+            "name" : "Albania",
+            "dial_code" : "+355"
+        },
+        {
+            "ids" : "3",
+            "sortname" : "DZ",
+            "name" : "Algeria",
+            "dial_code" : "+213"
+        },
+        {
+            "ids" : "4",
+            "sortname" : "AS",
+            "name" : "American Samoa",
+            "dial_code" : "+1 684"
+        },
+        {
+            "ids" : "5",
+            "sortname" : "AD",
+            "name" : "Andorra",
+            "dial_code" : "+376"
+        },
+        {
+            "ids" : "6",
+            "sortname" : "AO",
+            "name" : "Angola",
+            "dial_code" : "+244"
+        },
+        {
+            "ids" : "7",
+            "sortname" : "AI",
+            "name" : "Anguilla",
+            "dial_code" : "+1 264"
+        },
+        {
+            "ids" : "8",
+            "sortname" : "AQ",
+            "name" : "Antarctica",
+            "dial_code" : "+671"
+        },
+        {
+            "ids" : "9",
+            "sortname" : "AG",
+            "name" : "Antigua And Barbuda",
+            "dial_code" : "+1268"
+        },
+        {
+            "ids" : "10",
+            "sortname" : "AR",
+            "name" : "Argentina",
+            "dial_code" : "+54"
+        },
+        {
+            "ids" : "11",
+            "sortname" : "AM",
+            "name" : "Armenia",
+            "dial_code" : "+374"
+        },
+        {
+            "ids" : "12",
+            "sortname" : "AW",
+            "name" : "Aruba",
+            "dial_code" : "+297"
+        },
+        {
+            "ids" : "13",
+            "sortname" : "AU",
+            "name" : "Australia",
+            "dial_code" : "+61"
+        },
+        {
+            "ids" : "14",
+            "sortname" : "AT",
+            "name" : "Austria",
+            "dial_code" : "+43"
+        },
+        {
+            "ids" : "15",
+            "sortname" : "AZ",
+            "name" : "Azerbaijan",
+            "dial_code" : "+994"
+        },
+        {
+            "ids" : "16",
+            "sortname" : "BS",
+            "name" : "Bahamas The",
+            "dial_code" : "+1 242"
+        },
+        {
+            "ids" : "17",
+            "sortname" : "BH",
+            "name" : "Bahrain",
+            "dial_code" : "+973"
+        },
+        {
+            "ids" : "18",
+            "sortname" : "BD",
+            "name" : "Bangladesh",
+            "dial_code" : "+880"
+        },
+        {
+            "ids" : "19",
+            "sortname" : "BB",
+            "name" : "Barbados",
+            "dial_code" : "+1 246"
+        },
+        {
+            "ids" : "20",
+            "sortname" : "BY",
+            "name" : "Belarus",
+            "dial_code" : "+375"
+        },
+        {
+            "ids" : "21",
+            "sortname" : "BE",
+            "name" : "Belgium",
+            "dial_code" : "+32"
+        },
+        {
+            "ids" : "22",
+            "sortname" : "BZ",
+            "name" : "Belize",
+            "dial_code" : "+501"
+        },
+        {
+            "ids" : "23",
+            "sortname" : "BJ",
+            "name" : "Benin",
+            "dial_code" : "+229"
+        },
+        {
+            "ids" : "24",
+            "sortname" : "BM",
+            "name" : "Bermuda",
+            "dial_code" : "+1 441"
+        },
+        {
+            "ids" : "25",
+            "sortname" : "BT",
+            "name" : "Bhutan",
+            "dial_code" : "+975"
+        },
+        {
+            "ids" : "26",
+            "sortname" : "BO",
+            "name" : "Bolivia",
+            "dial_code" : "+591"
+        },
+        {
+            "ids" : "27",
+            "sortname" : "BA",
+            "name" : "Bosnia and Herzegovina",
+            "dial_code" : "+387"
+        },
+        {
+            "ids" : "28",
+            "sortname" : "BW",
+            "name" : "Botswana",
+            "dial_code" : "+267"
+        },
+        {
+            "ids" : "30",
+            "sortname" : "BR",
+            "name" : "Brazil",
+            "dial_code" : "+55"
+        },
+        {
+            "ids" : "31",
+            "sortname" : "IO",
+            "name" : "British Indian Ocean Territory",
+            "dial_code" : "+246"
+        },
+        {
+            "ids" : "32",
+            "sortname" : "BN",
+            "name" : "Brunei",
+            "dial_code" : "+673"
+        },
+        {
+            "ids" : "33",
+            "sortname" : "BG",
+            "name" : "Bulgaria",
+            "dial_code" : "+359"
+        },
+        {
+            "ids" : "34",
+            "sortname" : "BF",
+            "name" : "Burkina Faso",
+            "dial_code" : "+226"
+        },
+        {
+            "ids" : "35",
+            "sortname" : "BI",
+            "name" : "Burundi",
+            "dial_code" : "+257"
+        },
+        {
+            "ids" : "36",
+            "sortname" : "KH",
+            "name" : "Cambodia",
+            "dial_code" : "+855"
+        },
+        {
+            "ids" : "37",
+            "sortname" : "CM",
+            "name" : "Cameroon",
+            "dial_code" : "+237"
+        },
+        {
+            "ids" : "38",
+            "sortname" : "CA",
+            "name" : "Canada",
+            "dial_code" : "+1"
+        },
+        {
+            "ids" : "39",
+            "sortname" : "CV",
+            "name" : "Cape Verde",
+            "dial_code" : "+238"
+        },
+        {
+            "ids" : "40",
+            "sortname" : "KY",
+            "name" : "Cayman Islands",
+            "dial_code" : "+ 345"
+        },
+        {
+            "ids" : "41",
+            "sortname" : "CF",
+            "name" : "Central African Republic",
+            "dial_code" : "+236"
+        },
+        {
+            "ids" : "42",
+            "sortname" : "TD",
+            "name" : "Chad",
+            "dial_code" : "+235"
+        },
+        {
+            "ids" : "43",
+            "sortname" : "CL",
+            "name" : "Chile",
+            "dial_code" : "+56"
+        },
+        {
+            "ids" : "44",
+            "sortname" : "CN",
+            "name" : "China",
+            "dial_code" : "+86"
+        },
+        {
+            "ids" : "45",
+            "sortname" : "CX",
+            "name" : "Christmas Island",
+            "dial_code" : "+61"
+        },
+        {
+            "ids" : "46",
+            "sortname" : "CC",
+            "name" : "Cocos (Keeling) Islands",
+            "dial_code" : "+61"
+        },
+        {
+            "ids" : "47",
+            "sortname" : "CO",
+            "name" : "Colombia",
+            "dial_code" : "+57"
+        },
+        {
+            "ids" : "48",
+            "sortname" : "KM",
+            "name" : "Comoros",
+            "dial_code" : "+269"
+        },
+        {
+            "ids" : "49",
+            "sortname" : "CG",
+            "name" : "Congo",
+            "dial_code" : "+242"
+        },
+        {
+            "ids" : "50",
+            "sortname" : "CD",
+            "name" : "Congo The Democratic Republic Of The",
+            "dial_code" : "+243"
+        },
+        {
+            "ids" : "51",
+            "sortname" : "CK",
+            "name" : "Cook Islands",
+            "dial_code" : "+682"
+        },
+        {
+            "ids" : "52",
+            "sortname" : "CR",
+            "name" : "Costa Rica",
+            "dial_code" : "+506"
+        },
+        {
+            "ids" : "53",
+            "sortname" : "CI",
+            "name" : "Cote D''Ivoire (Ivory Coast)",
+            "dial_code" : "+225"
+        },
+        {
+            "ids" : "54",
+            "sortname" : "HR",
+            "name" : "Croatia (Hrvatska)",
+            "dial_code" : "+385"
+        },
+        {
+            "ids" : "55",
+            "sortname" : "CU",
+            "name" : "Cuba",
+            "dial_code" : "+53"
+        },
+        {
+            "ids" : "56",
+            "sortname" : "CY",
+            "name" : "Cyprus",
+            "dial_code" : "+537"
+        },
+        {
+            "ids" : "57",
+            "sortname" : "CZ",
+            "name" : "Czech Republic",
+            "dial_code" : "+420"
+        },
+        {
+            "ids" : "58",
+            "sortname" : "DK",
+            "name" : "Denmark",
+            "dial_code" : "+45"
+        },
+        {
+            "ids" : "59",
+            "sortname" : "DJ",
+            "name" : "Djibouti",
+            "dial_code" : "+253"
+        },
+        {
+            "ids" : "60",
+            "sortname" : "DM",
+            "name" : "Dominica",
+            "dial_code" : "+1 767"
+        },
+        {
+            "ids" : "61",
+            "sortname" : "DOO",
+            "name" : "Dominican Republic",
+            "dial_code" : "+1 849"
+        },
+        {
+            "ids" : "63",
+            "sortname" : "EC",
+            "name" : "Ecuador",
+            "dial_code" : "+593"
+        },
+        {
+            "ids" : "64",
+            "sortname" : "EG",
+            "name" : "Egypt",
+            "dial_code" : "+20"
+        },
+        {
+            "ids" : "65",
+            "sortname" : "SV",
+            "name" : "El Salvador",
+            "dial_code" : "+503"
+        },
+        {
+            "ids" : "66",
+            "sortname" : "GQ",
+            "name" : "Equatorial Guinea",
+            "dial_code" : "+240"
+        },
+        {
+            "ids" : "67",
+            "sortname" : "ER",
+            "name" : "Eritrea",
+            "dial_code" : "+291"
+        },
+        {
+            "ids" : "68",
+            "sortname" : "EE",
+            "name" : "Estonia",
+            "dial_code" : "+372"
+        },
+        {
+            "ids" : "69",
+            "sortname" : "ET",
+            "name" : "Ethiopia",
+            "dial_code" : "+251"
+        },
+        {
+            "ids" : "71",
+            "sortname" : "FK",
+            "name" : "Falkland Islands",
+            "dial_code" : "+500"
+        },
+        {
+            "ids" : "72",
+            "sortname" : "FO",
+            "name" : "Faroe Islands",
+            "dial_code" : "+298"
+        },
+        {
+            "ids" : "73",
+            "sortname" : "FJ",
+            "name" : "Fiji Islands",
+            "dial_code" : "+679"
+        },
+        {
+            "ids" : "74",
+            "sortname" : "FI",
+            "name" : "Finland",
+            "dial_code" : "+358"
+        },
+        {
+            "ids" : "75",
+            "sortname" : "FR",
+            "name" : "France",
+            "dial_code" : "+33"
+        },
+        {
+            "ids" : "76",
+            "sortname" : "GF",
+            "name" : "French Guiana",
+            "dial_code" : "+594"
+        },
+        {
+            "ids" : "77",
+            "sortname" : "PF",
+            "name" : "French Polynesia",
+            "dial_code" : "+689"
+        },
+        {
+            "ids" : "79",
+            "sortname" : "GA",
+            "name" : "Gabon",
+            "dial_code" : "+241"
+        },
+        {
+            "ids" : "80",
+            "sortname" : "GM",
+            "name" : "Gambia The",
+            "dial_code" : "+220"
+        },
+        {
+            "ids" : "81",
+            "sortname" : "GE",
+            "name" : "Georgia",
+            "dial_code" : "+995"
+        },
+        {
+            "ids" : "82",
+            "sortname" : "DE",
+            "name" : "Germany",
+            "dial_code" : "+49"
+        },
+        {
+            "ids" : "83",
+            "sortname" : "GH",
+            "name" : "Ghana",
+            "dial_code" : "+233"
+        },
+        {
+            "ids" : "84",
+            "sortname" : "GI",
+            "name" : "Gibraltar",
+            "dial_code" : "+350"
+        },
+        {
+            "ids" : "85",
+            "sortname" : "GR",
+            "name" : "Greece",
+            "dial_code" : "+30"
+        },
+        {
+            "ids" : "86",
+            "sortname" : "GL",
+            "name" : "Greenland",
+            "dial_code" : "+299"
+        },
+        {
+            "ids" : "87",
+            "sortname" : "GD",
+            "name" : "Grenada",
+            "dial_code" : "+1 473"
+        },
+        {
+            "ids" : "88",
+            "sortname" : "GP",
+            "name" : "Guadeloupe",
+            "dial_code" : "+590"
+        },
+        {
+            "ids" : "89",
+            "sortname" : "GU",
+            "name" : "Guam",
+            "dial_code" : "+1 671"
+        },
+        {
+            "ids" : "90",
+            "sortname" : "GT",
+            "name" : "Guatemala",
+            "dial_code" : "+502"
+        },
+        {
+            "ids" : "92",
+            "sortname" : "GN",
+            "name" : "Guinea",
+            "dial_code" : "+224"
+        },
+        {
+            "ids" : "93",
+            "sortname" : "GW",
+            "name" : "Guinea-Bissau",
+            "dial_code" : "+245"
+        },
+        {
+            "ids" : "94",
+            "sortname" : "GY",
+            "name" : "Guyana",
+            "dial_code" : "+595"
+        },
+        {
+            "ids" : "95",
+            "sortname" : "HT",
+            "name" : "Haiti",
+            "dial_code" : "+509"
+        },
+        {
+            "ids" : "97",
+            "sortname" : "HN",
+            "name" : "Honduras",
+            "dial_code" : "+504"
+        },
+        {
+            "ids" : "98",
+            "sortname" : "HK",
+            "name" : "Hong Kong S.A.R.",
+            "dial_code" : "+852"
+        },
+        {
+            "ids" : "99",
+            "sortname" : "HU",
+            "name" : "Hungary",
+            "dial_code" : "+36"
+        },
+        {
+            "ids" : "100",
+            "sortname" : "IS",
+            "name" : "Iceland",
+            "dial_code" : "+354"
+        },
+        {
+            "ids" : "101",
+            "sortname" : "IN",
+            "name" : "India",
+            "dial_code" : "+91"
+        },
+        {
+            "ids" : "102",
+            "sortname" : "id",
+            "name" : "Indonesia",
+            "dial_code" : "+62"
+        },
+        {
+            "ids" : "103",
+            "sortname" : "IR",
+            "name" : "Iran",
+            "dial_code" : "+98"
+        },
+        {
+            "ids" : "104",
+            "sortname" : "IQ",
+            "name" : "Iraq",
+            "dial_code" : "+964"
+        },
+        {
+            "ids" : "105",
+            "sortname" : "IE",
+            "name" : "Ireland",
+            "dial_code" : "+353"
+        },
+        {
+            "ids" : "106",
+            "sortname" : "IL",
+            "name" : "Israel",
+            "dial_code" : "+972"
+        },
+        {
+            "ids" : "107",
+            "sortname" : "IT",
+            "name" : "Italy",
+            "dial_code" : "+39"
+        },
+        {
+            "ids" : "108",
+            "sortname" : "JM",
+            "name" : "Jamaica",
+            "dial_code" : "+1 876"
+        },
+        {
+            "ids" : "109",
+            "sortname" : "JP",
+            "name" : "Japan",
+            "dial_code" : "+81"
+        },
+        {
+            "ids" : "111",
+            "sortname" : "JO",
+            "name" : "Jordan",
+            "dial_code" : "+962"
+        },
+        {
+            "ids" : "112",
+            "sortname" : "KZ",
+            "name" : "Kazakhstan",
+            "dial_code" : "+7 7"
+        },
+        {
+            "ids" : "113",
+            "sortname" : "KE",
+            "name" : "Kenya",
+            "dial_code" : "+254"
+        },
+        {
+            "ids" : "114",
+            "sortname" : "KI",
+            "name" : "Kiribati",
+            "dial_code" : "+686"
+        },
+        {
+            "ids" : "115",
+            "sortname" : "KP",
+            "name" : "Korea North",
+            "dial_code" : "+850"
+        },
+        {
+            "ids" : "116",
+            "sortname" : "KR",
+            "name" : "Korea South",
+            "dial_code" : "+82"
+        },
+        {
+            "ids" : "117",
+            "sortname" : "KW",
+            "name" : "Kuwait",
+            "dial_code" : "+965"
+        },
+        {
+            "ids" : "118",
+            "sortname" : "KG",
+            "name" : "Kyrgyzstan",
+            "dial_code" : "+996"
+        },
+        {
+            "ids" : "119",
+            "sortname" : "LA",
+            "name" : "Laos",
+            "dial_code" : "+856"
+        },
+        {
+            "ids" : "120",
+            "sortname" : "LV",
+            "name" : "Latvia",
+            "dial_code" : "+371"
+        },
+        {
+            "ids" : "121",
+            "sortname" : "LB",
+            "name" : "Lebanon",
+            "dial_code" : "+961"
+        },
+        {
+            "ids" : "122",
+            "sortname" : "LS",
+            "name" : "Lesotho",
+            "dial_code" : "+266"
+        },
+        {
+            "ids" : "123",
+            "sortname" : "LR",
+            "name" : "Liberia",
+            "dial_code" : "+231"
+        },
+        {
+            "ids" : "124",
+            "sortname" : "LY",
+            "name" : "Libya",
+            "dial_code" : "+218"
+        },
+        {
+            "ids" : "125",
+            "sortname" : "LI",
+            "name" : "Liechtenstein",
+            "dial_code" : "+423"
+        },
+        {
+            "ids" : "126",
+            "sortname" : "LT",
+            "name" : "Lithuania",
+            "dial_code" : "+370"
+        },
+        {
+            "ids" : "127",
+            "sortname" : "LU",
+            "name" : "Luxembourg",
+            "dial_code" : "+352"
+        },
+        {
+            "ids" : "128",
+            "sortname" : "MO",
+            "name" : "Macau S.A.R.",
+            "dial_code" : "+853"
+        },
+        {
+            "ids" : "129",
+            "sortname" : "MK",
+            "name" : "Macedonia",
+            "dial_code" : "+389"
+        },
+        {
+            "ids" : "130",
+            "sortname" : "MG",
+            "name" : "Madagascar",
+            "dial_code" : "+261"
+        },
+        {
+            "ids" : "131",
+            "sortname" : "MW",
+            "name" : "Malawi",
+            "dial_code" : "+265"
+        },
+        {
+            "ids" : "132",
+            "sortname" : "MY",
+            "name" : "Malaysia",
+            "dial_code" : "+60"
+        },
+        {
+            "ids" : "133",
+            "sortname" : "MV",
+            "name" : "Maldives",
+            "dial_code" : "+960"
+        },
+        {
+            "ids" : "134",
+            "sortname" : "ML",
+            "name" : "Mali",
+            "dial_code" : "+223"
+        },
+        {
+            "ids" : "135",
+            "sortname" : "MT",
+            "name" : "Malta",
+            "dial_code" : "+356"
+        },
+        {
+            "ids" : "137",
+            "sortname" : "MH",
+            "name" : "Marshall Islands",
+            "dial_code" : "+692"
+        },
+        {
+            "ids" : "138",
+            "sortname" : "MQ",
+            "name" : "Martinique",
+            "dial_code" : "+596"
+        },
+        {
+            "ids" : "139",
+            "sortname" : "MR",
+            "name" : "Mauritania",
+            "dial_code" : "+222"
+        },
+        {
+            "ids" : "140",
+            "sortname" : "MU",
+            "name" : "Mauritius",
+            "dial_code" : "+230"
+        },
+        {
+            "ids" : "141",
+            "sortname" : "YT",
+            "name" : "Mayotte",
+            "dial_code" : "+262"
+        },
+        {
+            "ids" : "142",
+            "sortname" : "MX",
+            "name" : "Mexico",
+            "dial_code" : "+52"
+        },
+        {
+            "ids" : "143",
+            "sortname" : "FM",
+            "name" : "Micronesia",
+            "dial_code" : "+691"
+        },
+        {
+            "ids" : "144",
+            "sortname" : "MD",
+            "name" : "Moldova",
+            "dial_code" : "+373"
+        },
+        {
+            "ids" : "145",
+            "sortname" : "MC",
+            "name" : "Monaco",
+            "dial_code" : "+377"
+        },
+        {
+            "ids" : "146",
+            "sortname" : "MN",
+            "name" : "Mongolia",
+            "dial_code" : "+976"
+        },
+        {
+            "ids" : "147",
+            "sortname" : "MS",
+            "name" : "Montserrat",
+            "dial_code" : "+1664"
+        },
+        {
+            "ids" : "148",
+            "sortname" : "MA",
+            "name" : "Morocco",
+            "dial_code" : "+212"
+        },
+        {
+            "ids" : "149",
+            "sortname" : "MZ",
+            "name" : "Mozambique",
+            "dial_code" : "+258"
+        },
+        {
+            "ids" : "150",
+            "sortname" : "MM",
+            "name" : "Myanmar",
+            "dial_code" : "+95"
+        },
+        {
+            "ids" : "151",
+            "sortname" : "NA",
+            "name" : "Namibia",
+            "dial_code" : "+264"
+        },
+        {
+            "ids" : "152",
+            "sortname" : "NR",
+            "name" : "Nauru",
+            "dial_code" : "+674"
+        },
+        {
+            "ids" : "153",
+            "sortname" : "NP",
+            "name" : "Nepal",
+            "dial_code" : "+977"
+        },
+        {
+            "ids" : "154",
+            "sortname" : "AN",
+            "name" : "Netherlands Antilles",
+            "dial_code" : "+599"
+        },
+        {
+            "ids" : "155",
+            "sortname" : "NL",
+            "name" : "Netherlands The",
+            "dial_code" : "+31"
+        },
+        {
+            "ids" : "156",
+            "sortname" : "NC",
+            "name" : "New Caledonia",
+            "dial_code" : "+687"
+        },
+        {
+            "ids" : "157",
+            "sortname" : "NZ",
+            "name" : "New Zealand",
+            "dial_code" : "+64"
+        },
+        {
+            "ids" : "158",
+            "sortname" : "NI",
+            "name" : "Nicaragua",
+            "dial_code" : "+505"
+        },
+        {
+            "ids" : "159",
+            "sortname" : "NE",
+            "name" : "Niger",
+            "dial_code" : "+227"
+        },
+        {
+            "ids" : "160",
+            "sortname" : "NG",
+            "name" : "Nigeria",
+            "dial_code" : "+234"
+        },
+        {
+            "ids" : "161",
+            "sortname" : "NU",
+            "name" : "Niue",
+            "dial_code" : "+683"
+        },
+        {
+            "ids" : "162",
+            "sortname" : "NF",
+            "name" : "Norfolk Island",
+            "dial_code" : "+672"
+        },
+        {
+            "ids" : "163",
+            "sortname" : "MP",
+            "name" : "Northern Mariana Islands",
+            "dial_code" : "+1 670"
+        },
+        {
+            "ids" : "164",
+            "sortname" : "NO",
+            "name" : "Norway",
+            "dial_code" : "+47"
+        },
+        {
+            "ids" : "165",
+            "sortname" : "OM",
+            "name" : "Oman",
+            "dial_code" : "+968"
+        },
+        {
+            "ids" : "166",
+            "sortname" : "PK",
+            "name" : "Pakistan",
+            "dial_code" : "+92"
+        },
+        {
+            "ids" : "167",
+            "sortname" : "PW",
+            "name" : "Palau",
+            "dial_code" : "+680"
+        },
+        {
+            "ids" : "168",
+            "sortname" : "PS",
+            "name" : "Palestinian Territory Occupied",
+            "dial_code" : "+970"
+        },
+        {
+            "ids" : "169",
+            "sortname" : "PA",
+            "name" : "Panama",
+            "dial_code" : "+507"
+        },
+        {
+            "ids" : "170",
+            "sortname" : "PG",
+            "name" : "Papua new Guinea",
+            "dial_code" : "+675"
+        },
+        {
+            "ids" : "171",
+            "sortname" : "PY",
+            "name" : "Paraguay",
+            "dial_code" : "+595"
+        },
+        {
+            "ids" : "172",
+            "sortname" : "PE",
+            "name" : "Peru",
+            "dial_code" : "+51"
+        },
+        {
+            "ids" : "173",
+            "sortname" : "PH",
+            "name" : "Philippines",
+            "dial_code" : "+63"
+        },
+        {
+            "ids" : "174",
+            "sortname" : "PN",
+            "name" : "Pitcairn Island",
+            "dial_code" : "+872"
+        },
+        {
+            "ids" : "175",
+            "sortname" : "PL",
+            "name" : "Poland",
+            "dial_code" : "+48"
+        },
+        {
+            "ids" : "176",
+            "sortname" : "PT",
+            "name" : "Portugal",
+            "dial_code" : "+351"
+        },
+        {
+            "ids" : "177",
+            "sortname" : "PR",
+            "name" : "Puerto Rico",
+            "dial_code" : "+1 939"
+        },
+        {
+            "ids" : "178",
+            "sortname" : "QA",
+            "name" : "Qatar",
+            "dial_code" : "+974"
+        },
+        {
+            "ids" : "179",
+            "sortname" : "RE",
+            "name" : "Reunion",
+            "dial_code" : "+262"
+        },
+        {
+            "ids" : "180",
+            "sortname" : "RO",
+            "name" : "Romania",
+            "dial_code" : "+40"
+        },
+        {
+            "ids" : "181",
+            "sortname" : "RU",
+            "name" : "Russia",
+            "dial_code" : "+7"
+        },
+        {
+            "ids" : "182",
+            "sortname" : "RW",
+            "name" : "Rwanda",
+            "dial_code" : "+250"
+        },
+        {
+            "ids" : "183",
+            "sortname" : "SH",
+            "name" : "Saint Helena",
+            "dial_code" : "+290"
+        },
+        {
+            "ids" : "184",
+            "sortname" : "KN",
+            "name" : "Saint Kitts And Nevis",
+            "dial_code" : "+1 869"
+        },
+        {
+            "ids" : "185",
+            "sortname" : "LC",
+            "name" : "Saint Lucia",
+            "dial_code" : "+1 758"
+        },
+        {
+            "ids" : "186",
+            "sortname" : "PM",
+            "name" : "Saint Pierre and Miquelon",
+            "dial_code" : "+508"
+        },
+        {
+            "ids" : "187",
+            "sortname" : "VC",
+            "name" : "Saint Vincent And The Grenadines",
+            "dial_code" : "+1 784"
+        },
+        {
+            "ids" : "188",
+            "sortname" : "WS",
+            "name" : "Samoa",
+            "dial_code" : "+685"
+        },
+        {
+            "ids" : "189",
+            "sortname" : "SM",
+            "name" : "San Marino",
+            "dial_code" : "+378"
+        },
+        {
+            "ids" : "190",
+            "sortname" : "ST",
+            "name" : "Sao Tome and Principe",
+            "dial_code" : "+239"
+        },
+        {
+            "ids" : "191",
+            "sortname" : "SA",
+            "name" : "Saudi Arabia",
+            "dial_code" : "+966"
+        },
+        {
+            "ids" : "192",
+            "sortname" : "SN",
+            "name" : "Senegal",
+            "dial_code" : "+221"
+        },
+        {
+            "ids" : "193",
+            "sortname" : "RS",
+            "name" : "Serbia",
+            "dial_code" : "+381"
+        },
+        {
+            "ids" : "194",
+            "sortname" : "SC",
+            "name" : "Seychelles",
+            "dial_code" : "+248"
+        },
+        {
+            "ids" : "195",
+            "sortname" : "SL",
+            "name" : "Sierra Leone",
+            "dial_code" : "+232"
+        },
+        {
+            "ids" : "196",
+            "sortname" : "SG",
+            "name" : "Singapore",
+            "dial_code" : "+65"
+        },
+        {
+            "ids" : "197",
+            "sortname" : "SK",
+            "name" : "Slovakia",
+            "dial_code" : "+421"
+        },
+        {
+            "ids" : "198",
+            "sortname" : "SI",
+            "name" : "Slovenia",
+            "dial_code" : "+386"
+        },
+        {
+            "ids" : "200",
+            "sortname" : "SB",
+            "name" : "Solomon Islands",
+            "dial_code" : "+677"
+        },
+        {
+            "ids" : "201",
+            "sortname" : "SO",
+            "name" : "Somalia",
+            "dial_code" : "+252"
+        },
+        {
+            "ids" : "202",
+            "sortname" : "ZA",
+            "name" : "South Africa",
+            "dial_code" : "+27"
+        },
+        {
+            "ids" : "203",
+            "sortname" : "GS",
+            "name" : "South Georgia",
+            "dial_code" : "+500"
+        },
+        {
+            "ids" : "205",
+            "sortname" : "ES",
+            "name" : "Spain",
+            "dial_code" : "+34"
+        },
+        {
+            "ids" : "206",
+            "sortname" : "LK",
+            "name" : "Sri Lanka",
+            "dial_code" : "+94"
+        },
+        {
+            "ids" : "207",
+            "sortname" : "SD",
+            "name" : "Sudan",
+            "dial_code" : "+249"
+        },
+        {
+            "ids" : "208",
+            "sortname" : "SR",
+            "name" : "Suriname",
+            "dial_code" : "+597"
+        },
+        {
+            "ids" : "209",
+            "sortname" : "SJ",
+            "name" : "Svalbard And Jan Mayen Islands",
+            "dial_code" : "+47"
+        },
+        {
+            "ids" : "210",
+            "sortname" : "SZ",
+            "name" : "Swaziland",
+            "dial_code" : "+268"
+        },
+        {
+            "ids" : "211",
+            "sortname" : "SE",
+            "name" : "Sweden",
+            "dial_code" : "+46"
+        },
+        {
+            "ids" : "212",
+            "sortname" : "CH",
+            "name" : "Switzerland",
+            "dial_code" : "+41"
+        },
+        {
+            "ids" : "213",
+            "sortname" : "SY",
+            "name" : "Syria",
+            "dial_code" : "+963"
+        },
+        {
+            "ids" : "214",
+            "sortname" : "TW",
+            "name" : "Taiwan",
+            "dial_code" : "+886"
+        },
+        {
+            "ids" : "215",
+            "sortname" : "TJ",
+            "name" : "Tajikistan",
+            "dial_code" : "+992"
+        },
+        {
+            "ids" : "216",
+            "sortname" : "TZ",
+            "name" : "Tanzania",
+            "dial_code" : "+255"
+        },
+        {
+            "ids" : "217",
+            "sortname" : "TH",
+            "name" : "Thailand",
+            "dial_code" : "+66"
+        },
+        {
+            "ids" : "218",
+            "sortname" : "TG",
+            "name" : "Togo",
+            "dial_code" : "+228"
+        },
+        {
+            "ids" : "219",
+            "sortname" : "TK",
+            "name" : "Tokelau",
+            "dial_code" : "+690"
+        },
+        {
+            "ids" : "220",
+            "sortname" : "TO",
+            "name" : "Tonga",
+            "dial_code" : "+676"
+        },
+        {
+            "ids" : "221",
+            "sortname" : "TT",
+            "name" : "Trinidsad And Tobago",
+            "dial_code" : "+1 868"
+        },
+        {
+            "ids" : "222",
+            "sortname" : "TN",
+            "name" : "Tunisia",
+            "dial_code" : "+216"
+        },
+        {
+            "ids" : "223",
+            "sortname" : "TR",
+            "name" : "Turkey",
+            "dial_code" : "+90"
+        },
+        {
+            "ids" : "224",
+            "sortname" : "TM",
+            "name" : "Turkmenistan",
+            "dial_code" : "+993"
+        },
+        {
+            "ids" : "225",
+            "sortname" : "TC",
+            "name" : "Turks And Caicos Islands",
+            "dial_code" : "+1 649"
+        },
+        {
+            "ids" : "226",
+            "sortname" : "TV",
+            "name" : "Tuvalu",
+            "dial_code" : "+688"
+        },
+        {
+            "ids" : "227",
+            "sortname" : "UG",
+            "name" : "Uganda",
+            "dial_code" : "+256"
+        },
+        {
+            "ids" : "228",
+            "sortname" : "UA",
+            "name" : "Ukraine",
+            "dial_code" : "+380"
+        },
+        {
+            "ids" : "229",
+            "sortname" : "AE",
+            "name" : "United Arab Emirates",
+            "dial_code" : "+971"
+        },
+        {
+            "ids" : "230",
+            "sortname" : "GB",
+            "name" : "United Kingdom",
+            "dial_code" : "+44"
+        },
+        {
+            "ids" : "231",
+            "sortname" : "US",
+            "name" : "United States",
+            "dial_code" : "+1"
+        },
+        {
+            "ids" : "233",
+            "sortname" : "UY",
+            "name" : "Uruguay",
+            "dial_code" : "+598"
+        },
+        {
+            "ids" : "234",
+            "sortname" : "UZ",
+            "name" : "Uzbekistan",
+            "dial_code" : "+998"
+        },
+        {
+            "ids" : "235",
+            "sortname" : "VU",
+            "name" : "Vanuatu",
+            "dial_code" : "+678"
+        },
+        {
+            "ids" : "236",
+            "sortname" : "VA",
+            "name" : "Vatican City State (Holy See)",
+            "dial_code" : "+379"
+        },
+        {
+            "ids" : "237",
+            "sortname" : "VE",
+            "name" : "Venezuela",
+            "dial_code" : "+58"
+        },
+        {
+            "ids" : "238",
+            "sortname" : "VN",
+            "name" : "Vietnam",
+            "dial_code" : "+84"
+        },
+        {
+            "ids" : "239",
+            "sortname" : "VG",
+            "name" : "Virgin Islands (British)",
+            "dial_code" : "+1 284"
+        },
+        {
+            "ids" : "240",
+            "sortname" : "VI",
+            "name" : "Virgin Islands (US)",
+            "dial_code" : "+1 340"
+        },
+        {
+            "ids" : "241",
+            "sortname" : "WF",
+            "name" : "Wallis And Futuna Islands",
+            "dial_code" : "+681"
+        },
+        {
+            "ids" : "243",
+            "sortname" : "YE",
+            "name" : "Yemen",
+            "dial_code" : "+967"
+        },
+        {
+            "ids" : "245",
+            "sortname" : "ZM",
+            "name" : "Zambia",
+            "dial_code" : "+260"
+        },
+        {
+            "ids" : "246",
+            "sortname" : "ZW",
+            "name" : "Zimbabwe",
+            "dial_code" : "+263"
+        }
+    ]
+}

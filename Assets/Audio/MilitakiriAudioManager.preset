@@ -1,0 +1,311 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MilitakiriAudioManager
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 7bb2cb4bb90ffb54bbd6944295e3af39,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.size
+    value: 34
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[0].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: b2a6bb284e2eb3a48b329f1c8edc36b2, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[0].audioTag
+    value: 23
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[1].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 2f473b94468559340b6da7aa9869b530, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[1].audioTag
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[2].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: e18146c0cb903e64ca98c352b3806e90, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[2].audioTag
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[3].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: f2a60cf3384b17e4ba9c41e620b929f5, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[3].audioTag
+    value: 35
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[4].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 03de1eb6826fe074f876a85337bee5e1, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[4].audioTag
+    value: 8
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[5].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: d172bd0874880904593eb0bb7ee75bfa, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[5].audioTag
+    value: 9
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[6].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 767bfcd6380cd6c44ba8abb47c030cd5, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[6].audioTag
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[7].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 87b17e04e45d8664dabbca9a910445ed, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[7].audioTag
+    value: 11
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[8].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 764441c10ec14004fab61442c749f327, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[8].audioTag
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[9].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 144006e1d4b3d0a479cc2fb399a7c008, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[9].audioTag
+    value: 12
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[10].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 466f5b85baced8c44b4a3f8fdda4b665, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[10].audioTag
+    value: 13
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[11].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: b8ba6267f01d87e4ebce1a649dd47990, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[11].audioTag
+    value: 14
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[12].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: bb293b811728b6049a6019fdeaaf8d36, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[12].audioTag
+    value: 15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[13].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 9a1a44c6f51a3514aa37ff99ccd32261, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[13].audioTag
+    value: 17
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[14].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 076fa0223359fda458779435ddacfa6a, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[14].audioTag
+    value: 18
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[15].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: a22c6f54063ecb541b0d547362938078, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[15].audioTag
+    value: 19
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[16].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: a4da5048a8f386e4d9c1272072069fda, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[16].audioTag
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[17].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: e223446707e7faf429ced780aeed4872, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[17].audioTag
+    value: 21
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[18].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 45b67406bd9b8754d80c85ea2532494f, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[18].audioTag
+    value: 22
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[19].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 180f18aabb0af754d927e9b1b124646f, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[19].audioTag
+    value: 24
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[20].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: ebb40dd98d2b870479a947dafcfb6e58, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[20].audioTag
+    value: 25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[21].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 786269761085f7945823f183127d5e5a, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[21].audioTag
+    value: 26
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[22].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 52f21df981f90b742a6786fdc9b8f025, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[22].audioTag
+    value: 27
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[23].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 9ddff059348521840b10abd08f4ad83c, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[23].audioTag
+    value: 28
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[24].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: a8257c7091c0dd24187a8f433d013eb4, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[24].audioTag
+    value: 29
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[25].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: f4e287b50a4938f4ca8997076c014a36, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[25].audioTag
+    value: 30
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[26].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: e9d192cd2760b3e4c9560587954e5ad9, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[26].audioTag
+    value: 31
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[27].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: dfc0ef5aa95939848aad4777ec984473, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[27].audioTag
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[28].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 4cffce0020c747b46acd7186af538999, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[28].audioTag
+    value: 33
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[29].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 3ad7352f4e6000c408c61d8f025bdaa9, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[29].audioTag
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[30].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: a27d378b870f10148a1e832c0b93f662, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[30].audioTag
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[31].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: 7b745b4965fc5d840a98c4461ed365b2, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[31].audioTag
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[32].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: f65471f5895810f42b383bf1f716218d, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[32].audioTag
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[33].audioClip
+    value: 
+    objectReference: {fileID: 8300000, guid: cccb0c4e63933ae44894c45a0b875980, type: 3}
+  - target: {fileID: 0}
+    propertyPath: gameAudioFiles.Array.data[33].audioTag
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: music_Volume
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: sound_Volume
+    value: 1
+    objectReference: {fileID: 0}
